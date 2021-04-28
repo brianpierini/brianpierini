@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brianpierini
 - 👀 I’m interested in security, general technology and privacy.
-- 🌱 I’m currently learning security trends, devops, automation in an incident response context.
+- 🌱 I’m currently learning security trends, security devops, automation in an incident response context.
 - 📫 How to reach me: brianpierini@pm.me 
 
 <!---
