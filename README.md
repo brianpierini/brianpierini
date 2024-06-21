@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brianpierini
 - 👀 I’m interested in security, general tech, and privacy.
-- 🌱 I’m constantly learning but focusing on security trends, security DevOps, and automation in an incident response context. 
-- 📫 How to reach me: brianpierini@pm.me  
+- 🌱 I’m constantly learning but focusing on security trends, security devops, and automation. 
+- 📫 How to reach me: brianpierini@gmail.com  
 
 <!---
 brianpierini/brianpierini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
