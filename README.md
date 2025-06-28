@@ -1,9 +1,8 @@
 ## 👋 Hi, I'm Brian
 
-Security Engineer by day. Learner, builder, and privacy advocate always.
+I’m a Security Engineer who likes building small tools, learning in public, and helping people take more control over their digital lives.
 
-I like writing Python scripts and small tools that solve practical problems — especially around digital privacy, automation, and making tech work better for real people. Still learning, always experimenting.
-
+I mostly write Python and build small tools to solve real problems, especially around automation and privacy. I’m always learning and experimenting.
 ---
 
 ## 🛠 Projects
