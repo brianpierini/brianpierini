@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Brian
 
-I’m a Security Engineer who likes building small tools, learning in public, and helping people take more control over their digital lives.
+I’m a Security Engineer who likes building what I can and helping people take more control over their digital lives.
 
 I mostly write Python and build small tools to solve real problems, especially around automation and privacy. I’m always learning and experimenting.
 
