@@ -9,11 +9,11 @@ I mostly write Python and build small tools to solve problems, especially around
 ## 🛠 Projects
 
 ### [ByeSky](https://github.com/brianpierini/ByeSky)  
-*A CLI tool to delete old Bluesky posts based on custom timeframes*
+*A CLI tool to delete old Bluesky posts based on custom timeframes*  
 Built to support digital hygiene and user privacy. Lets users clean up their post history quickly using app passwords and the ATProtocol API.
 
 ### [Mastogone](https://github.com/brianpierini/Mastogone)
-*A CLI tool to delete old Mastodon posts based on custom timeframes*
+*A CLI tool to delete old Mastodon posts based on custom timeframes*  
 Built to support digital hygiene and user privacy. Lets users clean up their post history quickly using access tokens and the Mastodon API.
 
 ---
